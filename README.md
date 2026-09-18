@@ -10,10 +10,9 @@ gradually exploring the connection between software development, AI, and data.
 
 ## 🌱 Currently
 
-- Building and publishing frontend projects
-- Improving my skills in React, Tailwind CSS, and UI/UX
-- Building a stronger developer portfolio through practical projects
-- Exploring AI & Data Science alongside my frontend development work
+- Developing frontend projects with React and Tailwind CSS
+- Working on responsive interfaces and UI/UX
+- Exploring AI & Data Science through university work and personal learning
 
 ## 🛠️ Tech Stack
 
