@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi, I'm Sarah 👋</h1>
+# Hi, I'm Sarah 👋
 
 <p>
   <strong>Computer Science Engineering Student · AI & Data Science · Frontend Developer</strong>
@@ -19,58 +19,67 @@
 
 </div>
 
----
+<br>
 
-<h3>🌱 Currently</h3>
+## 🌱 Currently
 
-- Developing frontend projects with <strong>React</strong> and <strong>Tailwind CSS</strong>
-- Working on <strong>responsive interfaces</strong> and <strong>UI/UX</strong>
-- Exploring <strong>AI & Data Science</strong> through university work and personal learning
+- Developing frontend projects with **React** and **Tailwind CSS**
+- Working on **responsive interfaces** and **UI/UX**
+- Exploring **AI & Data Science** through university work and personal learning
 
----
+<br>
 
-<h3>🛠️ Tech Stack</h3>
+## 🛠️ Tech Stack
 
-<p><strong>Frontend</strong></p>
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite&perline=6" width="240"/>
-</p>
-
-<p><strong>Database</strong></p>
+**Frontend**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" width="40"/>
+  <img src="https://img.shields.io/badge/HTML5-343044?style=flat-square&logo=html5&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/CSS3-343044?style=flat-square&logo=css3&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/JavaScript-343044?style=flat-square&logo=javascript&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/React-343044?style=flat-square&logo=react&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-343044?style=flat-square&logo=tailwindcss&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/Vite-343044?style=flat-square&logo=vite&logoColor=E9E4F5" />
 </p>
 
-<p><strong>AI & Data Science</strong></p>
+**AI & Data Science**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" width="40"/>
+  <img src="https://img.shields.io/badge/Python-343044?style=flat-square&logo=python&logoColor=E9E4F5" />
 </p>
 
-<p><strong>Design</strong></p>
+**Database**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=figma,canva&perline=2" width="80"/>
+  <img src="https://img.shields.io/badge/MySQL-343044?style=flat-square&logo=mysql&logoColor=E9E4F5" />
 </p>
 
-<p><strong>Tools</strong></p>
+**Design**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" width="120"/>
+  <img src="https://img.shields.io/badge/Figma-343044?style=flat-square&logo=figma&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/Canva-343044?style=flat-square&logo=canva&logoColor=E9E4F5" />
 </p>
 
----
+**Tools**
 
-<h3>📫 Connect</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-343044?style=flat-square&logo=git&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/GitHub-343044?style=flat-square&logo=github&logoColor=E9E4F5" />
+  <img src="https://img.shields.io/badge/VS_Code-343044?style=flat-square&logo=visualstudiocode&logoColor=E9E4F5" />
+</p>
+
+<br>
+
+## 📫 Connect
 
 <p>
   <a href="https://www.linkedin.com/in/sarah-cheikh-45366337m/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-343044?style=flat-square&logo=linkedin&logoColor=E9E4F5" />
   </a>
   <a href="mailto:s.cheikh@esi-sba.dz">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-    
+    <img src="https://img.shields.io/badge/Email-343044?style=flat-square&logo=gmail&logoColor=E9E4F5" />
   </a>
 </p>
+
+
