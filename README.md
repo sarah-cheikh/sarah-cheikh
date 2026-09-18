@@ -66,12 +66,11 @@
 <h3>📫 Connect</h3>
 
 <p>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/sarah-cheikh-45366337m">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-    www.linkedin.com/in/sarah-cheikh-45366337m
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="s.cheikh@esi-sba.dz">
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-    s.cheikh@esi-sba.dz
+    
   </a>
 </p>
