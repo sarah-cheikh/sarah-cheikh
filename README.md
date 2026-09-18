@@ -1,50 +1,60 @@
+<div align="center">
+
 # Hi, I'm Sarah 👋
 
 ### Computer Science Engineering Student · AI & Data Science · Frontend Developer
 
-I'm a Computer Science engineering student specializing in Artificial Intelligence
-and Data Science, currently focused on frontend development.
+Computer Science engineering student specializing in **Artificial Intelligence
+and Data Science**, currently focused on **frontend development**.
 
 I enjoy building clean, responsive, and practical web applications while
-gradually exploring the connection between software development, AI, and data.
+exploring the connection between software development, AI, and data.
+
+</div>
+
+---
 
 ## 🌱 Currently
 
-- Developing frontend projects with React and Tailwind CSS
-- Working on responsive interfaces and UI/UX
-- Exploring AI & Data Science through university work and personal learning
+- Developing frontend projects with **React** and **Tailwind CSS**
+- Working on **responsive interfaces** and **UI/UX**
+- Exploring **AI & Data Science** through university work and personal learning
+
+---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+**Frontend**
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
 
-### Database
+**Database**
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### AI & Data Science
+**AI & Data Science**
 
 <p>
   <img src="https://skillicons.dev/icons?i=python" />
 </p>
 
-### Design
+**Design**
 
 <p>
   <img src="https://skillicons.dev/icons?i=figma,canva" />
 </p>
 
-### Tools
+**Tools**
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+---
 
 ## 📫 Connect
 
