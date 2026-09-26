@@ -29,6 +29,20 @@
 
 <br>
 
+## 🚀 Featured Project
+
+### 🌱 StudyFlow
+
+A study-planning app that turns study constraints into a realistic, day-by-day study plan.
+
+**React · TypeScript · Tailwind CSS · Node.js · Express · Gemini API**
+
+Built as a personal project to explore frontend development, backend integration, and AI-powered features.
+
+[View StudyFlow →](https://github.com/sarah-cheikh/studyflow)
+
+<br>
+
 ## 🛠️ Tech Stack
 
 **Frontend**
@@ -81,5 +95,3 @@
     <img src="https://img.shields.io/badge/Email-343044?style=flat-square&logo=gmail&logoColor=E9E4F5" />
   </a>
 </p>
-
-
